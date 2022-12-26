@@ -1,0 +1,42 @@
+
+body{
+    background_color:#83fafa;
+}
+hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    height: 2px;
+    width: 100%;
+}
+image{
+border-radius: 80%;
+}
+h1{
+    color: rgb(3, 16, 134);
+    
+}
+h3{
+    color: brown;
+}
+p{
+    color: indianred;
+}
+h4{
+
+    color: lightcoral;
+}
+input{
+    color: maroon;
+    background-color: oldlace;
+}
+textarea{
+    background-color: oldlace;
+    color: saddlebrown;
+}
+table{
+    background-color: tan;
+}
+a{
+    overflow: visible;
+}
